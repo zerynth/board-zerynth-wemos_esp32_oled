@@ -1,0 +1,14 @@
+---
+description: Add support for Wemos ESP32 OLED
+fullname: board.zerynth.wemos_esp32_oled
+info:
+    board: Wemos ESP32 OLED
+    chip_manufacturer: Wemos
+    device: esp32
+    family_type: Xtensa lx6
+keywords:
+- espressif
+- esp32
+- board
+title: Wemos ESP32 OLED Support Package
+...
